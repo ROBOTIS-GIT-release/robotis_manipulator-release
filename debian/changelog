@@ -1,0 +1,23 @@
+ros-kinetic-robotis-manipulator (1.1.0-0xenial) xenial; urgency=high
+
+  * supports Doxygen
+  * added getTrajectory function
+  * added torque coefficient
+  * change return type of funtions from void to bool
+  * added dynamics solving options
+  * fixed several bugs
+  * Contributors: Hye-Jong KIM, Yong-Ho Na, Tomoya Yamanokuchi
+
+ -- Hye-Jong KIM <hjkim@robotis.com>  Sat, 26 Sep 2020 15:00:00 -0000
+
+ros-kinetic-robotis-manipulator (1.0.0-0xenial) xenial; urgency=high
+
+  * updated the CHANGELOG and version to release binary packages
+  * modified the package information for release
+  * added the manipulation API and functions for controlling the manipulator
+  * made new ROS package
+  * Contributors: Hye-Jong KIM, Darby Lim, Yong-Ho Na, Ryan Shim, Guilherme de Campos Affonso, Pyo
+
+ -- Pyo <pyo@robotis.com>  Thu, 07 Feb 2019 15:00:00 -0000
+
+
