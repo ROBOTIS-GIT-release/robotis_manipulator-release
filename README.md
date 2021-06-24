@@ -1,3 +1,26 @@
+## robotis_manipulator (noetic) - 1.1.1-2
+
+The packages in the `robotis_manipulator` repository were released into the `noetic` distro by running `/usr/bin/bloom-release robotis_manipulator -t noetic -r noetic --edit` on `Thu, 24 Jun 2021 08:53:41 -0000`
+
+The `robotis_manipulator` package was released.
+
+Version of package(s) in repository `robotis_manipulator`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/robotis_manipulator.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.1.1-1`
+- new version: `1.1.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## robotis_manipulator (noetic) - 1.1.1-1
 
 The packages in the `robotis_manipulator` repository were released into the `noetic` distro by running `/usr/bin/bloom-release robotis_manipulator -t noetic -r noetic --edit` on `Thu, 24 Jun 2021 08:42:28 -0000`
